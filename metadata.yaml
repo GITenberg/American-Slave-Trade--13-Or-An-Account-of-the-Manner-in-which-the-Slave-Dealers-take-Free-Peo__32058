@@ -1,0 +1,28 @@
+_repo: American-Slave-Trade--13-Or-An-Account-of-the-Manner-in-which-the-Slave-Dealers-take-Free-Peo__32058
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Torrey, Jesse, active 1787-1834
+    gutenberg_agent_id: '35641'
+    url: http://www.gutenberg.org/2009/agents/35641
+description: ''
+gutenberg_issued: '2010-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32058'
+  lccn: '18023775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States'
+- !lcc 'E300'
+title: "American Slave Trade\r\nOr, An Account of the Manner in which the Slave Dealers\
+  \ take Free People from some of the United States of America, and carry them away,\
+  \ and sell them as Slaves in other of the States; and of the horrible Cruelties\
+  \  practised in the carrying on of this most infamous Traffic"
+url: http://www.gutenberg.org/ebooks/32058
