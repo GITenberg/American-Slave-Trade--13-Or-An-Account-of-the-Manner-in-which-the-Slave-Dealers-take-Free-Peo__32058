@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35641'
     url: http://www.gutenberg.org/2009/agents/35641
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32058#American-Slave-Trade--13-Or-An-Account-of-the-Manner-in-which-the-Slave-Dealers-take-Free-Peo_
 gutenberg_issued: '2010-04-19'
 gutenberg_type: Text
 identifiers:
